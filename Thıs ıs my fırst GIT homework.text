@@ -1,3 +1,7 @@
 Thıs ıs my fırst GIT homework
 This is my second modifying
+<<<<<<< HEAD
 this is fourth modifying
+=======
+this third modifying
+>>>>>>> 727dcad6b02aea583626e611940ff24ce1a3efc5
